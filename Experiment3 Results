@@ -1,0 +1,17 @@
+Experiment3 : Fine Tuning DistilBERT model for text classification
+
+* Fine-tuning was done on the sample data of size 37205 entries
+
+* The model was trained on 5 epochs and the learning rate was set at 1e-5 and batch size 16
+
+* Total training time taken across all epochs [Validation and model saving time included]:   1:48:32 (h:mm:ss)
+
+* Data Split:
+      -Training data: 26787 (72 percent)
+      -Validation data: 6697 (18 percent)
+      -Test data : 3721 (10 percent)
+
+* Macro-averaged F1-score
+      -Training data: 0.69
+      -Validation data: 0.66
+      -Test data :0.61
