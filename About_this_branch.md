@@ -25,6 +25,7 @@ International Banking Groups and their Cross-Border Establishments
 * Text contatined within round paranthesis are removed, if there exist any.
 * Text contatined within square paranthesis are removed, if there exist any.
 * No summarization was done.
+* Duplicate entries and text with word count less than 7 are removed.
 
 # Notebooks:
 
