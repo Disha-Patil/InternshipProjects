@@ -29,19 +29,19 @@ International Banking Groups and their Cross-Border Establishments
 
 # Notebooks:
 
-The notebook containing the pre-processing of input 'Text' is **Part1_HuggingFace_Dataset.ipynb**
+1)The notebook containing the pre-processing of input 'Text' is **Part1_HuggingFace_Dataset.ipynb**
 
-The notebooks containing the fine-tuning of DistilBERT model for 5 epochs are:
+2A)The notebooks containing the fine-tuning of DistilBERT model for 5 epochs are:
 
-1.  **Part2_DistilBERT_5_epochs.ipynb**
-2.  **Part3_Predicting_and_Inference_using_Pipeline_5_epochs.ipynb**
+  i.   **Part2_DistilBERT_5_epochs.ipynb**
+  ii.  **Part3_Predicting_and_Inference_using_Pipeline_5_epochs.ipynb**
 
-The notebooks containing the fine-tuning of DistilBERT model for 15 epochs are:
+2B)The notebooks containing the fine-tuning of DistilBERT model for 15 epochs are:
 
-1.  **Part2_DistilBERT_15_epochs.ipynb**
-2.  **Part3_Predicting_and_Inference_using_Pipeline_15_epochs.ipynb**
+  i.   **Part2_DistilBERT_15_epochs.ipynb**
+  ii.  **Part3_Predicting_and_Inference_using_Pipeline_15_epochs.ipynb**
 
-The notebooks containing the fine-tuning of DistilBERT model for 30 epochs are:
+2C)The notebooks containing the fine-tuning of DistilBERT model for 30 epochs are:
 
-1.  **Part2_DistilBERT_30_epochs.ipynb**
-2.  **Part3_Predicting_and_Inference_using_Pipeline_30_epochs.ipynb**
+  i.   **Part2_DistilBERT_30_epochs.ipynb**
+  ii.  **Part3_Predicting_and_Inference_using_Pipeline_30_epochs.ipynb**
