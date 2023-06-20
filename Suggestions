@@ -1,0 +1,4 @@
+20th June:
+1. the file path is wrong. Programming languages treat backslashes as escape characters. 
+So if you are using windows path you need to put double blackslashes or use forward slashes.
+df=pd.read_csv("C:\\Users\\PATH\\TO YOUR\\FOLDER\\ClaimPredictionChallenge\\train_set\\train_set.csv")
