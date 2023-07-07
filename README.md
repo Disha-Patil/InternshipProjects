@@ -1,4 +1,4 @@
-# VehicleClaimPrediction
+# Internship problem -  VehicleClaimPrediction
 regression analysis on claims data
 
 
