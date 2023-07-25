@@ -1,9 +1,5 @@
 #Importing modules and dataset
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import urllib3 
 from urllib3.exceptions import ReadTimeoutError
 
 data = pd.read_csv("bank_transactions.csv")
@@ -105,7 +101,7 @@ for city, lat, lon in zip(data["CustLocation"], latitudes, longitudes):
     ).add_to(m)
 
 # Display the map
-m.save('map2.html')
+m.save('map.html')
 
 
 '''
