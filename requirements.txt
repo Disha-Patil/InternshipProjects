@@ -1,0 +1,10 @@
+sentence-transformers
+scikit-learn
+ipykernel
+numpy
+pandas
+openpyxl
+TensorFlow 
+transformers
+matplotlib
+seaborn
