@@ -1,2 +1,4 @@
-Method 01 -> output on unprocessed text   ( Accuracy 70% ) 
-Method 02 -> output after pre-processing  ( Accuracy 75% ) 
+Method 01 -> output on facebook/bart-large-mnli  raw text             ( Accuracy 70% ) 
+Method 02 -> output on facebook/bart-large-mnli pre-processed text    ( Accuracy 70% ) 
+Method 03 -> output on DeBERTa-v3-large-mnli  raw text                ( Accuracy 70% ) 
+Method 04 -> output on DeBERTa-v3-large-mnli pre-processed text       ( Accuracy 75% ) 
