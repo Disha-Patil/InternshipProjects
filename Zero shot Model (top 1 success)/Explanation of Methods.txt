@@ -1,0 +1,7 @@
+Method 01 -> output on facebook/bart-large-mnli  raw text             ( Accuracy 70.00 % ) 
+Method 02 -> output on facebook/bart-large-mnli pre-processed text    ( Accuracy 70.00 % ) 
+Method 03 -> output on DeBERTa-v3-large-mnli  raw text                ( Accuracy 70.00 % ) 
+Method 04 -> output on DeBERTa-v3-large-mnli pre-processed text       ( Accuracy 74.81 % ) 
+Method 05 -> output on cross-encoder/nli-deberta-v3-large             ( Accuracy 74.44 % )
+
+
